@@ -4,7 +4,7 @@
 
 ## How to install
 
-- Install Java : [Windows](https://download.oracle.com/java/20/archive/jdk-20.0.2_windows-x64_bin.exe)  [MacOS](https://download.oracle.com/java/20/archive/jdk-20.0.2_macos-x64_bin.dmg)
+- Install Java : [Windows](https://download.oracle.com/java/20/archive/jdk-20.0.2_windows-x64_bin.exe)  [MacOS - Old](https://download.oracle.com/java/20/archive/jdk-20.0.2_macos-x64_bin.dmg) [MacOS - New](https://download.oracle.com/java/20/archive/jdk-20.0.2_macos-aarch64_bin.dmg)
 - Save **client-alpha.jar** to the Desktop folder
 - Run the program
 
